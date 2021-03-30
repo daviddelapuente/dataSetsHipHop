@@ -42,7 +42,7 @@ prometheus-client==0.8.0
 prompt-toolkit==1.0.18
 ptyprocess==0.6.0
 pycrypto==2.6.1
-Pygments==2.5.2
+Pygments==2.7.4
 pygobject==3.26.1
 pyparsing==2.4.7
 pyphonetics==0.5.3
